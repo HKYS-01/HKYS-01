@@ -2,6 +2,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hani!+%F0%9F%91%8B;Front+End-Student;Back-End+Student;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 - 👋 Hi, I’m Hani Karim 
+
 - 🌱 I’m currently learning about software development.
   <!-- LENGUAJES Y HERRAMIENTAS -->
 <h3 align="left">Languages and Tools:</h3>
